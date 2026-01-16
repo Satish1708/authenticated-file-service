@@ -16,15 +16,11 @@ A backend service that supports:
 ## Running Locally
 
 1. Install dependencies
-```bash
 npm install
-
 2. Create .env from example
-```bash
 cp .env.example .env
 3.Start PostgreSQL and create schema
 4.Run the app
-```bash
 npm start
 
 **Notes**
