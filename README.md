@@ -15,14 +15,14 @@ A backend service that supports:
 
 ## Running Locally
 
-1. Install dependencies
-npm install
-2. Create .env from example
-cp .env.example .env
-3.Start PostgreSQL and create schema
-4.Run the app
-npm start
-
+1. Install dependencies <br>
+npm install<br>
+2. Create .env from example<br>
+cp .env.example .env<br>
+3.Start PostgreSQL and create schema<br>
+4.Run the app<br>
+npm start<br>
+<br><br><br><br>
 **Notes**
 uploads/ is intentionally ignored
 Storage backend can be swapped with S3 without changing routes
