@@ -18,6 +18,7 @@ A backend service that supports:
 1. Install dependencies
 ```bash
 npm install
+
 2. Create .env from example
 ```bash
 cp .env.example .env
@@ -26,6 +27,6 @@ cp .env.example .env
 ```bash
 npm start
 
-##**Notes**
+**Notes**
 uploads/ is intentionally ignored
 Storage backend can be swapped with S3 without changing routes
